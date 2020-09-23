@@ -1,0 +1,11 @@
+Grading Rubric:
+
+* Part 1: loading ppm: /10
+* Part 2: separating colors 10/20  - incorrect separation of colors
+* Part 3: greyscale /20
+* Part 4: threshold /20
+* Part 5: histogram  15/30 - does not terminate
+* Bonus:  /0
+* Total: 75
+
+Notes:   good start

@@ -1,0 +1,22 @@
+Project 3:
+
+Project 3A: Sobel and Hough 
+- sobel:  /30
+- hough 40/70
+- Subtotal : 70/100
+
+Notes: you aren't printing out results, or drawing lines, so it's hard to tell how, if at all, you tested your code.  Does it work?
+
+Project 3B: Canny
+- gaussian blur /10
+- gradient /10 
+- non-max 20/30 - how do you test it to make sure it works?
+- threshold 5/10 - how did you pick these values?
+- edge tracking: /30
+- results and testing: 0/10 not enough test images!  Crashes on displa - can you confirm it works for you?
+- Subtotal: 75/100
+
+Total: 145/200
+
+Notes:
+- 

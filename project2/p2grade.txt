@@ -1,0 +1,19 @@
+Project 2:
+
+Part 1: my_imfilter 
+- Identity Filter
+- small blur
+- large blur
+- sobel
+- high pass
+- score: 50/70
+
+Part 2: Hybrid Image
+- create_hybrid_image 
+- testing/results
+- score: 0/30
+
+Total: 50/100
+
+Notes: good start, but if you get stuck, or don't know how to proceed, come talk to me!
+- 
